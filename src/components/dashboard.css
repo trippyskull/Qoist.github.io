@@ -1,0 +1,74 @@
+.dashboard{
+    display: grid   ;
+    grid-template-columns: auto auto auto auto auto;
+}
+.dashboard2{
+    display: grid   ;
+    grid-template-columns: auto auto auto auto auto;
+}
+.dashboard3{
+    display: grid   ;
+    grid-template-columns: auto auto auto;
+}
+@media (min-width: 600px) and (max-width: 1200px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto;
+    }
+  }
+
+  @media (min-width: 600px) and (max-width: 1200px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto auto;
+    }
+  }
+
+
+  @media (min-width: 1201px) and (max-width: 1500px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto auto auto;
+    }
+  }
+
+
+
+  @media (min-width: 240px) and (max-width: 550px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto;
+    }
+  }@media (min-width: 600px) and (max-width: 1200px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto auto;
+    }
+  }@media (min-width: 1201px) and (max-width: 1500px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto auto auto;
+    }
+  }
+
+
+  @media (min-width: 600px) and (max-width: 1200px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto auto;
+    }
+  }
+  @media (min-width: 600px) and (max-width: 1200px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto auto;
+    }
+  }
+  @media (min-width: 1201px) and (max-width: 1500px) {
+    .dashboard{
+        display: grid   ;
+        grid-template-columns: auto auto auto;
+    }
+  }
+
+ 
